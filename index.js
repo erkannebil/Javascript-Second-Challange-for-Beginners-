@@ -12,7 +12,7 @@ var cumleler = [
   ["İçimden", "gel", "dedim", "ama", "gelmedin."],
   ["Kader", "o", "defteri", "tekrar", "açamaz."],
   ["Şarkılar", "seni", "bana", "hatırlatan", "gerçekti."],
-  ["Bu", "gece", "çok", "uykum", "vardı."],
+  ["Bu", "gece", "çok", "uykum", "vardı."], 
   ["Neden", "böyle", "yaptığına", "anlam", "veremedim."],
   ["Benim", "boyum", "ondan", "bayağı", "kısaydı."],
   ["Senin", "gibi", "birini", "sevdim."],
